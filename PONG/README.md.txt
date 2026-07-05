@@ -7,18 +7,22 @@
 - Movimento simples
 - colisão com as paredes
 - colisão entre formas (retângulos)
-- IA simples que segue o movimento da bolinha
+- IA simples que segue o movimento da bolinha (com margem de erro)
+- Reinício automático após atualiazação do placar (com tempo de delay)
 
 # O que eu aprendi:
 
-- organização e documentação do código
-- uso de funções
-- loop de jogo
+- Organização e documentação do código
+- Uso de funções
+- Loop de jogo
 - Detectar colisões
-- trabalhar com as coordenadas
+- Trabalhar com as coordenadas
+- Atualizar valores de pontuação
+- Ajustar perfomance de IAs básicas, por meio de chance de erro
+- implementação de tempos de delay
 
 # Possíveis próximas melhorias:
 
-- placar
 - controle de FPS
 - detalhes no cenário
+- Menu inicial
